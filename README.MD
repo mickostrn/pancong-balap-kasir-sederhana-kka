@@ -28,8 +28,8 @@ Data menu disimpan dalam sebuah list yang berisi beberapa dictionary seperti:
 
 ## Cara Menjalankan
 
-* Pastikan Python sudah terpasang.
 python kasir_pancong_balap.py
+* Pastikan Python sudah terpasang.
 
 
 ## Teknologi
